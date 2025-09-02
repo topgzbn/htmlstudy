@@ -107,7 +107,12 @@
 
   </audio>
 ```
-
+总结：
+- controls播放音视频属性
+- autoplay自动播放，与muted配合使用
+- muted静音
+- loop循环播放
+- poster播放封面图
 # 4.链接标签
 ```html
     1. 内部链接 <br>
@@ -337,7 +342,9 @@
 
   </table>
 ```
-总结：rowspan：行合并；colspan列合并
+总结：
+- rowspan：行合并
+- colspan：列合并
 ## 7.2表格结构标签
 ```html
   <table border="1">
@@ -512,6 +519,12 @@
 
   </form>
 ```
+总结：
+- autocomplete：属性是否自动填充
+- acesskey：规定快捷键，用于激活/聚焦元素。
+- multiple：可上传多文件
+- accept：可上传文件的类型
+
 # 9.特殊字符
 ```html
    特殊字符：
